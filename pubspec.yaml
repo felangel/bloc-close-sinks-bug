@@ -1,0 +1,13 @@
+name: bloc_close_sinks_bug
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  bloc: ^0.16.1
+  flutter_bloc: ^0.22.1
